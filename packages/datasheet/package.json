@@ -25,7 +25,7 @@
     "@apitable/i18n-lang": "*",
     "@apitable/icons": "*",
     "@apitable/react-flow": "^9.6.11",
-    "@apitable/widget-sdk": "*",
+    "@apitable/widget-sdk": "0.0.1",
     "@futpib/dagre": "^0.8.5-pre1",
     "@huse/click-outside": "^1.0.1",
     "@redux-devtools/extension": "^3.2.3",
