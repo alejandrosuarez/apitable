@@ -10,7 +10,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@apitable/icons": "*",
+    "@apitable/icons": "0.0.1",
     "@apitable/react-contexify": "^5.0.7",
     "@rjsf/core": "^4.2.3",
     "ahooks": "^3.5.0",
