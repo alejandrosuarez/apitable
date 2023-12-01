@@ -37,8 +37,8 @@
     "react-dom": "18.2.0"
   },
   "dependencies": {
-    "@apitable/components": "*",
-    "@apitable/core": "*",
+    "@apitable/components": "0.0.1",
+    "@apitable/core": "0.0.1",
     "ahooks": "^3.5.0",
     "attr-accept": "^2.1.0",
     "bowser": "^2.11.0",
