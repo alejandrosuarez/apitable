@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@apitable/components": "*",
-    "@apitable/core": "*",
+    "@apitable/core": "0.0.1",
     "ahooks": "^3.5.0",
     "attr-accept": "^2.1.0",
     "bowser": "^2.11.0",
