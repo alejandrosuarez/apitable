@@ -27,7 +27,7 @@
     "build:json": "ts-node ./script/run.ts"
   },
   "dependencies": {
-    "@cypress/browserify-preprocessor": "^3.0.1",
+    "@cypress/browserify-preprocessor": "^3.0.2",
     "@types/request": "^2.48.5",
     "apitable": "latest",
     "cypress": "^8.2.0",
