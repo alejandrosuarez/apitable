@@ -62,7 +62,7 @@
     "fastify": "3.22.0",
     "fastify-helmet": "^5.0.0",
     "fastify-multipart": "^4.0.0",
-    "fastify-swagger": "^4.3.3",
+    "fastify-swagger": "^5.2.0",
     "form-data": "^3.0.0",
     "getmac": "^5.20.0",
     "immer": "9.0.16",
